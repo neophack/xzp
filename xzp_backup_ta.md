@@ -69,3 +69,5 @@ sync
 PS L:\bksony> ./adb pull /data/local/tmp/TA-locked.img
 1783 KB/s (2097152 bytes in 1.148s)
 ```
+
+链接：[百度云](https://pan.baidu.com/s/1HaAVInF57f1T3wRzSVazsg)提取码：id5h 
