@@ -7,8 +7,6 @@ PS L:\bksony> .\adb.exe push .\renosploit /data/local/tmp
 PS L:\bksony> .\adb.exe push .\renoshell /data/local/tmp
 1506 KB/s (14536 bytes in 0.009s)
 PS L:\bksony> ./adb install -r renotrap.apk
-1781 KB/s (268736 bytes in 0.147s)
-PS L:\bksony> ./adb install -r renotrap.apk
 3416 KB/s (268736 bytes in 0.076s)
 Success
 PS L:\bksony> .\adb.exe shell
@@ -30,7 +28,7 @@ please wait...
 
 
 ```
-# reboot and root again
+# reboot and root again then backup
 ```
 PS L:\bksony> .\adb.exe shell
 G8142:/ $ cd /data/local/tmp
@@ -70,4 +68,6 @@ PS L:\bksony> ./adb pull /data/local/tmp/TA-locked.img
 1783 KB/s (2097152 bytes in 1.148s)
 ```
 
-链接：[百度云](https://pan.baidu.com/s/1HaAVInF57f1T3wRzSVazsg)提取码：id5h 
+说明：一定要使用指定固件
+
+链接：[百度云](https://pan.baidu.com/s/1HaAVInF57f1T3wRzSVazsg) 提取码：id5h 
