@@ -70,4 +70,6 @@ PS L:\bksony> ./adb pull /data/local/tmp/TA-locked.img
 
 说明：一定要使用指定固件
 
+保证TA能用，拨号输入`*#*#7378423#*#*`，找到`security`，内部key为`PROVISIONED`
+
 链接：[百度云](https://pan.baidu.com/s/1HaAVInF57f1T3wRzSVazsg) 提取码：id5h 
